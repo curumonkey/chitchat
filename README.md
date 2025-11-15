@@ -1,3 +1,7 @@
+How to Update cloned repo
+git branch
+git pull origin <branch you want to get>
+
 
 python3 -m venv .venv
 source .venv/bin/activate
